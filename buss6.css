@@ -1,0 +1,62 @@
+body{
+	background-color: #6495ED;
+  padding: 10px;
+}
+.wrap{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    background-image: url(putih2.jpg);
+    background-position: center;
+    border-style: solid;
+    font-size: 1.0rem;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+}
+h2{
+	text-align: center;
+}
+table{
+	padding-bottom: 5px;
+	width: 800px;
+	height: 500px;
+	font-size: 20px;
+}
+::placeholder {
+  color: #999999;
+  width: 1000px;
+  height: 5000px;
+  font-size: 15px;
+  line-height: 10;
+}
+table td{
+	padding: 5px;
+}
+button{
+	width: 70px;
+	margin-top: 10px;
+	font-family: rosario;
+	height: 30px;
+	background-color: yellow;
+	border-radius: 30px;
+	justify-content: center;
+}
+.footer {
+  position: right;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6495ED;
+  background-size: cover;
+  color: black;
+  text-align: right;
+}
+
+p{
+  text-align: right;
+  font-family: sans-serif;
+}
